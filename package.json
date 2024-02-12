@@ -1,0 +1,13 @@
+{
+    "name": "cat-gallery",
+    "version": "1.0.0",
+    "description": "A simple cat image gallery",
+    "main": "index.js",
+    "scripts": {
+      "start": "parcel index.html"
+    },
+    "dependencies": {
+      "parcel-bundler": "^1.12.5"
+    }
+  }
+  
